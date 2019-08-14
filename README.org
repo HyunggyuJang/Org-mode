@@ -1,4 +1,4 @@
-#+TITLE: FirstOrg
+#+TITLE: README
 
 * My First Org Mode File.
 ** Why am I interested in Org-mode and more emacs?
