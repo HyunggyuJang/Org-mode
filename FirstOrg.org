@@ -1,0 +1,69 @@
+#+TITLE: FirstOrg
+
+* My First Org Mode File.
+** Why am I interested in Org-mode and more emacs?
+*** The basic motivation
+I hope that I keep learning about emacs and org mode. I'm quite interesting in
+[[https://en.wikipedia.org/wiki/Literal_(computer_programming)][Literal Programming]]. As I did in third year in my college for all the report
+stuffs, I came to realize how it is painful to write scientific stuffs mixing
+all the datum--excel files, csv, etc.--with figures which helps to visualize the
+meaning of that datum.
+
+In that time, I've used so called [[https://github.com/gpoore/pythontex][pythontex]]
+,which is kind of literal programmming stuff but it focus more on the
+documentating. Previously, all my class friends used excel for data
+manipulation in experimental report. I just wanted to try out something new, and
+also I've got bored what I supposed to do. And boom! At first, it was quite hard
+to adjust myself to it but the result quite satisfiable; but the hardness keep
+bothered me. And now, I'm the position where I can do what I want to
+do--basically I should prepare my graduate school, so I thought why not to try
+out what I thought want to do but I couldn't because I have a lot of to do
+things when I bound to college's semester.
+
+*** Starting from Vim
+Yeah I wanted to try out [[https://www.vim.org/][Vim]]. As one of the my colleague was "The Greatest
+Vimmer" when I worked in software venture, I've sought what he doing in Vim and
+I got quite impressed by that at first glimpse.
+
+So, I ran through all the stuffs like [[https://pragprog.com/book/dnvim2/practical-vim-second-edition][Practical Vim]], [[https://pragprog.com/book/modvim/modern-vim][Modern Vim]], [[http://learnvimscriptthehardway.stevelosh.com/][Learn Vimscript
+the Hard way]]
+, [[youtube:zQ6Ua-8pM9g][and so on]]; then I run up with the sicp, which I tried before I was fresh man
+but never completed all, and I decided to rethrough all the stuff seriously,i.e.
+solving all the stuffs in book and do all proejects specified in [[https://ocw-origin.odl.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/][web]]
+, which is [[https://github.com/HyunggyuJang/SICP][working in progress]].
+
+*** By the way why Org?
+Back to the point, then why I started using emacs (more correctly emacs doom)
+while I quite satisfied by Vim? That is, I've started to realize there is some
+limitation in doing all the things in Vim (obviously it is due to lack of my own
+abilities.) and more, when it comes to learn SICP, which use scheme--the dialect
+of lisp, why not emacs which also rooted from elisp--also the dialect of lisp.
+
+Before dive into emacs right away, I've followed the recommendation or the more
+correctly the requirement from the [[https://ocw-origin.odl.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/][web]]; I've tried the edwin which almost like
+emacs but written in scheme thus it lacks the extensibilities. I've used 2 or 3
+days; started to be irritated; I really started to miss Vim a lot, the modal editing!
+
+At that very time, I've discovered that in emacs there is [[youtube:JWD1Fpdd4Pc][evil mode]]
+; and now. In the mean while I've learned how I need to improve my writing skill
+in english desperately (as for my graduate school things); I've started to post
+[[https://hyunggyujang.github.io/][my blog]] for what I've learned this day, and some notes about what I considered
+and so on.
+
+Nowdays, I rarely post the blog because I've felt pressure to do that. When I
+start to felt pressure, I start to be agitated that I couldn't do the easy
+things in easy fashion; then got collapsed. That's what happened.
+
+And now. Here I am trying to give an another shot like this. I want to be loose
+in this documenting; I've learned from the blogging that when I want to be
+perfect in where I'm totally new, got collapsed. I don't mind whether people
+understand easily or not; I just describe the contents enough to remind me when
+I revisite that stuff. Yeah It's for me not you.
+
+** What I expect to Org-mode?
+*** Literal Programming in SICP
+I want to experiment the literal programming by doing the exercises in SICP. As
+I doing that, I found myself it amounts to the size of code that the lines of
+comments, which solely descibe the proof for the algorithm and the explaining
+things--there are a lot of such things in SICP. So I thought it is perfectly
+right space to try out.
