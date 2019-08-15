@@ -67,3 +67,22 @@ I doing that, I found myself it amounts to the size of code that the lines of
 comments, which solely descibe the proof for the algorithm and the explaining
 things--there are a lot of such things in SICP. So I thought it is perfectly
 right space to try out.
+
+*** Literal Programming in mit-scheme
+Up to now, I've used mit-scheme for my backend interpreter as [[google:SICP][it]] says; but
+unfortunately, the org-mode seems doesn't support mit-scheme for code
+interpretation but guile.
+
+So from now on, I'd like to try out guile in org mode but keep using the
+mit-scheme in [[github:HyunggyuJang/SICP][sicp code]].
+
+Let's try out.
+#+BEGIN_SRC scheme
+(define hi "hello world")
+hi
+#+END_SRC
+
+#+RESULTS:
+: hello world
+
+semms work well.
